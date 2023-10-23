@@ -47,8 +47,8 @@ In this project we have primarily used Python libraries like , Artificial Intell
 
 ### Technologies Used
 
-- Python libraries : re, ntlk, spacy, LDA (latent dilichlet allocation), plotly, matplotlib, seaborn and Vader
-- AI and ML models: 
+- Python libraries : re, ntlk, spacy, scikit-learn, plotly, matplotlib, seaborn and Vader
+- AI and ML models: LDA (LatentDirichletAllocation)
 - Data analysis and visualisation tools: plotly, matplotlib, seaborn
 
 ### Results: 
