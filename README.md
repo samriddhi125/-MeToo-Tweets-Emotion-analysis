@@ -65,7 +65,7 @@ In this project we have primarily used Python libraries like , Artificial Intell
 ### Future Improvements
 - More dimension can be added to this project by accessing the X (formerly Twitter) API that collects data realtime.
 - That data could be stored and used to analyse emotions, understand topics, summarize and plot interactive graphs on a dynamic webpage.
-- There is also scope also expand to other social media sites like Reddit and new websites collecting any and every data related to this hashtag.
+- There is also scope to expand to other social media sites like Reddit and news websites collecting any and every data related to this hashtag.
 - We could also create an app or a website where women can talk freely about their experiences which can be used to understand and infer patterns from cases that leads to harrasment or sexual assault.
 
 ## Get Involved
