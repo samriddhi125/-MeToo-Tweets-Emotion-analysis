@@ -52,6 +52,12 @@ In this project we have primarily used Python libraries like , Artificial Intell
 - Data analysis and visualisation tools: plotly, matplotlib, seaborn
 
 ### Results: 
+- The results we obtained from this analysis can be seen in the attached python files depicted in various graphs.
+- We could infer the overall sentiment of the tweets posted with the hashtag #metoo. The majority category was 'negative', followed by 'positive' and then 'neutral'.
+- The involvment of public figures and celebrities in the movement was also highlighted in our results and the overall sentiment of the public towsrds them in this movement.
+- The top words and phrases brought out various small topics and events that were discussed in the movement.
+- Analysing hashtags other than #metoo, gave us insights into relevant hashtags and their impact on the movement.
+- The use of topic modelling uncovered the hidden topics and themes in the movement.
 
 
 ### Future Improvements
