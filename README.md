@@ -20,6 +20,8 @@ The project successfully helps to visualise emotions and sentiments attached wit
 
 We are working with Python libraries such as pandas, re, ntlk, spacy, sklearn, plotly and matplotlib for data science, analytics and visualisation as well as AI & ML Models such as LDA or Latent Dirichlet Allocation.
 
+VADER is a library of python used for sentiment analysis particularly social media sentiment of social media text like tweets. VADER is a pre-built sentiment analysis tool and it is used to determine the polarity of the tweets(positive,negative or neutral. In this project we are using VADER for analysing the sentiment of the tweets to focus on the reaction of the people towards the movement and also the sentiment of the public towards certain individuals targeted by the movement.
+
 ## Plan of Action
 
 Our plan of action involves a well-structured approach to tackle the analysis effectively. Here are the key steps we have followed:
