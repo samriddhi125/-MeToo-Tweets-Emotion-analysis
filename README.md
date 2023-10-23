@@ -1,4 +1,4 @@
-# Metoo Tweets Emotion Analysis || WWCode Hackathon for Social Good 2023
+# Metoo Tweets Sentiment Analysis || WWCode Hackathon for Social Good 2023
 
 ## Introduction
 
@@ -18,7 +18,7 @@ The problem we aim to address is to conduct sentiment analysis on #MeToo movemen
 
 The project successfully helps to visualise emotions and sentiments attached with the movement on twitter as well as helps people understand the sentiment associated with public figures who are more frequently mentioned in the tweets.
 
-We are working with Python libraries such as  for data science, analytics and visualisation as well as AI & ML Models such as ,
+We are working with Python libraries such as re, ntlk, spacy, LDA, plotly and matplotlib for data science, analytics and visualisation as well as AI & ML Models such as ,
 
 ## Plan of Action
 
@@ -42,38 +42,22 @@ Our primary goal for this hackathon project is to gain better understanding of t
 
 ### Project Name
 
-**[Your Project Name]**
+**Me Too Tweets Sentiment Analysis**
 
 ### Project Description
 In this project we have primarily used Python libraries like , Artificial Intelligence and Machine Learning models such as , to analyse and visualise the emotions attached with the #metoo tweets and prominent public figures. This insight will greatly help in understanding the reach and impact of such movements that happen on social media platforms as well as help in spreading awareness about safety and empowerment of survivors of such crimes.
 
-### Key Features
-
-- [List the most important features or functionalities of your project.]
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-
 ### Technologies Used
 
-- Python libraries : re, ntlk, spacy, LDA (latent dilichlet allocation), plotly, matplotlib, seaborn
+- Python libraries : re, ntlk, spacy, LDA (latent dilichlet allocation), plotly, matplotlib, seaborn and Vader
 - AI and ML models: 
-- Data analysis and visualisation tools: 
+- Data analysis and visualisation tools: plotly, matplotlib, seaborn
 
 ### Results: 
 
 
 ### Future Improvements
-We can add more dimension to this project 
-Older data to see how the movement has evolved
-Crime data related to locations mentioned in the dataset – if it has reduced, 
-Minors - under age, age data in the tweets
-How you will show relation between words in the same tweet if they exist separately
-Make the problem statements in to points
-Check if this dataset is available on kaggle and if so there are ways to add novelty to this project
-Predict using the popular tweets people who can head such movement in the future
-What movements can be born out of #MeToo such as for healing and legal matters etc
-Intensity of sentiment analysis
+We can add more dimension to this project by accessing the X (formerly Twitter) API and using realtime data to predict emotions and plot interactive graphs.
 
 ## Get Involved
 
@@ -81,8 +65,7 @@ If you are interested in our project and want to contribute, have suggestions, o
 
 ## Acknowledgments
 
-We'd like to express our gratitude to our mentors Dr.Pooja Kamat and Dr.Smita Mahajan for their giudance and support throughout the project.
+We'd like to express our gratitude to our mentors Dr.Pooja Kamat and Dr.Smita Mahajan for their guidance and support throughout the project.
 
----
 
 Thank you for taking the time to explore our hackathon project. We're excited to make a positive impact and look forward to the journey ahead!
