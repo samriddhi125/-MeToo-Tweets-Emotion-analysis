@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In today’s world social media plays a crucial role in analyzing the impact of movements such as #MeToo on people and vice versa. Due to the immense reach of social media,there is a need to analyse and understand people’s reactions to determine the impact of the movement.
+In today’s world social media plays a crucial role in analyzing the impact of movements such as #MeToo on people and vice versa. Due to the immense reach of social media, there is a need to analyse and understand people’s reactions to determine the impact of the movement.
 
 ## Meet the Team
 
