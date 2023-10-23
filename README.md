@@ -61,7 +61,6 @@ In this project we have primarily used Python libraries like , Artificial Intell
 - Analysing hashtags other than #metoo, gave us insights into relevant hashtags and their impact on the movement.
 - The use of topic modelling uncovered the hidden topics and themes in the movement.
 
-
 ### Future Improvements
 - More dimension can be added to this project by accessing the X (formerly Twitter) API that collects data realtime.
 - That data could be stored and used to analyse emotions, understand topics, summarize and plot interactive graphs on a dynamic webpage.
