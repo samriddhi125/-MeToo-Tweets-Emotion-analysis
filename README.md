@@ -9,7 +9,7 @@ In today’s world social media plays a crucial role in analyzing the impact of 
 We are a team of passionate undergraduate students pursuing Btech in AIML from SIT - Pune, India.
 
 - **Samriddhi Kumari** - Team Lead
-- **Ramitha V** - Data Scientist & Machine Learning Expert
+- **Ramitha V**
 - **Sakshi Sah**
 
 ## Problem Statement
@@ -36,7 +36,7 @@ Our plan of action involves a well-structured approach to tackle the analysis ef
 
 ## Our Goal
 
-Our primary goal for this hackathon project is to [State your primary goal, whether it's solving a problem, creating awareness, or innovating in a particular domain]. Additionally, we aim to gain valuable experience, collaborate effectively as a team, and showcase our skills and creativity.
+Our primary goal for this hackathon project is to gain better understanding of the #metoo movement and its impact on people as well as to pread awareness about Woman Empowerment, Safety and Crime Rates. Additionally, we aim to gain valuable experience, collaborate effectively as a team, and showcase our tech skills and creativity!
 
 ## Our Project
 
@@ -45,8 +45,7 @@ Our primary goal for this hackathon project is to [State your primary goal, whet
 **[Your Project Name]**
 
 ### Project Description
-
-[Provide a concise description of your project, including its purpose, functionality, and potential impact.]
+In this project we have primarily used Python libraries like , Artificial Intelligence and Machine Learning models such as , to analyse and visualise the emotions attached with the #metoo tweets and prominent public figures. This insight will greatly help in understanding the reach and impact of such movements that happen on social media platforms as well as help in spreading awareness about safety and empowerment of survivors of such crimes.
 
 ### Key Features
 
@@ -57,30 +56,32 @@ Our primary goal for this hackathon project is to [State your primary goal, whet
 
 ### Technologies Used
 
-- [List the technologies, programming languages, and tools used in your project.]
-- [Technology 1]
-- [Technology 2]
-- [Technology 3]
+- Python libraries : re, ntlk, spacy, LDA (latent dilichlet allocation), plotly, matplotlib, seaborn
+- AI and ML models: 
+- Data analysis and visualisation tools: 
 
-### Installation and Usage
+### Results: 
 
-[Provide detailed instructions on how to install and use your project. Include any dependencies and prerequisites.]
 
 ### Future Improvements
-
-[Discuss potential future improvements, features, or enhancements for your project.]
+We can add more dimension to this project 
+Older data to see how the movement has evolved
+Crime data related to locations mentioned in the dataset – if it has reduced, 
+Minors - under age, age data in the tweets
+How you will show relation between words in the same tweet if they exist separately
+Make the problem statements in to points
+Check if this dataset is available on kaggle and if so there are ways to add novelty to this project
+Predict using the popular tweets people who can head such movement in the future
+What movements can be born out of #MeToo such as for healing and legal matters etc
+Intensity of sentiment analysis
 
 ## Get Involved
 
 If you are interested in our project and want to contribute, have suggestions, or want to collaborate, please feel free to contact us. We appreciate any feedback and support!
 
-## License
-
-This project is licensed under the [Your License Name] License. For more details, see the [LICENSE.md](LICENSE.md) file.
-
 ## Acknowledgments
 
-We'd like to express our gratitude to [Acknowledge any individuals, organizations, or resources that contributed to your project].
+We'd like to express our gratitude to our mentors Dr.Pooja Kamat and Dr.Smita Mahajan for their giudance and support throughout the project.
 
 ---
 
