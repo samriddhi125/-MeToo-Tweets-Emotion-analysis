@@ -8,10 +8,9 @@ In today’s world social media plays a crucial role in analyzing the impact of 
 
 We are a team of passionate undergraduate students 
 
-- **[Your Name]** - Team Lead & Full-Stack Developer
-- **[Team Member 1]** - Data Scientist & Machine Learning Expert
-- **[Team Member 2]** - UI/UX Designer
-- **[Team Member 3]** - Project Manager & Business Analyst
+- **Samriddhi Kumari** - Team Lead
+- **Ramitha V** - Data Scientist & Machine Learning Expert
+- **Sakshi Sah**
 
 ## Problem Statement
 
