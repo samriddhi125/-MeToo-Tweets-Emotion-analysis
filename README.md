@@ -22,7 +22,7 @@ We are working with Python libraries such as pandas, re, ntlk, spacy, sklearn, p
 
 ## Plan of Action
 
-Our plan of action involves a well-structured approach to tackle the analysis effectively. Here are the key steps we will follow:
+Our plan of action involves a well-structured approach to tackle the analysis effectively. Here are the key steps we have followed:
 
 1. **Analyzing Quantity**: To analyze Twitter data, determine the total number of unique tweets, examine the distribution of tweet timestamps, identify original tweets and retweets, count truncated tweets, and ascertain the number of original tweets or replies.
 
