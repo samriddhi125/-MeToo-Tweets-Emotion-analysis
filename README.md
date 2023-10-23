@@ -6,7 +6,7 @@ In today’s world social media plays a crucial role in analyzing the impact of 
 
 ## Meet the Team
 
-We are a team of passionate undergraduate students pursuing Btech in AIML from SIT - Pune, India.
+We are a team of passionate undergraduate students pursuing Btech in AIML from Symbiosis Institue of Technology - Pune, India.
 
 - **Samriddhi Kumari** - Team Lead
 - **Ramitha V**
