@@ -1,4 +1,4 @@
-# Metoo Tweets Sentiment Analysis || WWCode Hackathon for Social Good 2023
+# Metoo Tweets Sentiment Analysis
 
 ## Introduction
 
